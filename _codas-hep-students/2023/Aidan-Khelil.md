@@ -1,11 +1,11 @@
 ---
 layout: codas-hep-participant
-e-mail: YOUR-EMAIL
-institution: YOUR-UNIVERSITY
-name: Example Name
-photo: "/assets/images/codas-hep/2023/crow-t-robot.jpg"
-github-username: YOUR-GITHUB-USERNAME
-linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
+e-mail: akhelil@umass.edu
+institution: University of Massachusetts, Amherst
+name: Aidan Khelil
+photo: "/assets/images/codas-hep/2023/Aidan-Khelil.jpg"
+github-username: akhelil
+linkedin-profile: https://www.linkedin.com/in/aidan-khelil-30842a1b0/
 orcid:
 title:
 website:
